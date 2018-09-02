@@ -1,0 +1,89 @@
+==================================================================
+https://keybase.io/benjaminfjones
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://bfj7.com
+  * I am benjaminfjones (https://keybase.io/benjaminfjones) on keybase.
+  * I have a public key with fingerprint 18F3 2CFD DED8 41D4 8D29  2A8A ABFA 40BD 190A 71A5
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01016032f5ced9494cd6a82c748488b208c7d4ba0544a947aa4c77c85953a44d344b0a",
+      "fingerprint": "18f32cfdded841d48d292a8aabfa40bd190a71a5",
+      "host": "keybase.io",
+      "key_id": "abfa40bd190a71a5",
+      "kid": "0101760b2d894825599573bda9a52346bffb4f678bab9c22e87bee4a24fcb4afb15c0a",
+      "uid": "3a13f11f5452713aded6668936e7dc19",
+      "username": "benjaminfjones"
+    },
+    "merkle_root": {
+      "ctime": 1535858253,
+      "hash_meta": "44218cd6b870c94e97c76d2e7f42ac62dd9622025e83bf38539e089ef300312b",
+      "seqno": 3550884
+    },
+    "revoke": {
+      "sig_ids": [
+        "b5d8fe0d605a36bcae51be4b8574234a8eb7af35aae5c6f228f0370e2805882c0f"
+      ]
+    },
+    "service": {
+      "hostname": "bfj7.com",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1535858269,
+  "expire_in": 157680000,
+  "prev": "9cc7d8743b6c19ed6403ab8e8fca5a51d1c4fd747094e9fb1f01930a8a7b12f4",
+  "seqno": 20,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.77
+Comment: https://keybase.io/crypto
+
+yMQKAnicbZN7UBVVHMcB01GIwEc2ZA642WiFenbPObtnwVfmVIiYDiYh4vWc3XNg
+gXv3eu8FVAYf6NikM00amuSY+ULFR+NIWpNGCjqjoiiOo5iZDyiMonToZaN0LpPj
+TNP+s7Nnv7/v+Z7P73caYntFREfuuT/xaEL0/B2RZ46XFkfkrJ6VW6Yw116opJQp
+hbznxYtsHgx5Ch1bSVGAClQdQE1gi9smMpFl65RoloEIIoRpgFiGjRgFGCFqIoNS
+ZBmGRbCJIUXIhggxQJVkRTi+PB7wBxxfSNqqREDNErbNbYJUGxFbMzVKKGWCIsBs
+1QTUUCmWhfluMFwhwzEa5KMdV67JD09PvP/RP85t6IBpNjER0TA2TWxAZlOTYg0i
+nQnBkNANwigzLU3jxGCcI6ohYTFEBVOx1ZO7uMcOUhUKVRUYYc1QIZW5dV0nJtS5
+YVuqGRYGecBHvVyqGfcVUK/jEwWujweV8mTFywOFRdwTcN1QGLEVcsJCFUNMsEwH
+5TFpMN/j5SEq6xHSVCJBM2IAy0TcNCxDtzVuCKRRS9ds29Q1DWiYE8gEJBiaHBCT
+CwgAVDUm0wT5fJ+rpECMASFIJgjwEreQhzcPOnkSXlBJyVEYtongwNYBplBnFuVY
+ZRwxgg0kKVHCmUEFxFT+sHShaUQAaACuEYCJnAIglNzy8GaBEsfqMQ936xEFUWCM
+tlyvTOMPuCHXcovkan4o5E8JIwkt9IdVpZx5/q33MMdnyzGRBSU8EHRcn0Qklf+h
+pZvJCl/gdwLc44QV2NAJkE94G14iLU1LziQxEGS6bI3sFAKQMsKJsCimWLVVCwnb
+QAYIs5WtFkA1IZDjZzBVE+gxPk2ahmie9JTQfDRUHOBK+fFjc56IiIyO6NM7Knx/
+IqL7xT+6VVPej+vOup3Zdasq0RItwdbxn16Nqe0/MvXipDGDqh6uXLZl3Zn4kqSN
+J9ufy1n6MxyHn+LVvxe9Xl57J+X22XZ/cq/rF0s/X3WOLffMzZiyvPbygNSofkO9
+QXO551pr7qCDLft+LcroeK2pwrM1rX1RV2P7+tgF+zIKfthV0bf4XKn7SU5+zezU
+qenH4I2P1yw+fbN7Ykvz9LrGv7O2RJevOTPtDXOmsz+tZndxTGqFc2J99+xWkTZ0
+a2jKjN/GPYiAOauHfbanCoBv+5YdHNaUNKprzPnmisI5bacGjJ1eMHxgvu9N/d0l
+2evcCyWi197M7+9enTd5xQeV+4d/OH+Cb3Db9Q2JJ6MSiyt9zqGGYzWNz9b9ealy
+04WOA61fx0a5i9KPTKtf+8v4uBsFzRmzbi56aftXOzv5FjNp78y72VeqNfVhWUPv
+xTuu1zXl7hvS3aUEUpe8NfXOA31GFT7w3YGEhKPNTe+caJvx5Is/5Z3fqAY32pMy
+n1naUT/q1VeuXbrbtnnH7hVffhE/0BO56tb9ztPxL+z+cRWOW7C55ezz+TEdD4+M
+qJy8f3VZdN26i1ufXpNNElZuWzsifXJnYxtsjb1Bquv3ev8aPH7CvZq3h15uTNt5
+8/C9ke+VZm2K2dXZP+6bK+b2gVUPIre/nHXqyrC5EVZ9fVJ65pKPhkw8fPDQ2M6K
+mg0NgbgRoT59+82rLUo8XVzt/2Nb9rJ/AD5vBh8=
+=7XAt
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/benjaminfjones
+
+==================================================================
+
